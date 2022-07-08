@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Hi+there+👋🏽,+I'm+Daniel+Sidauruk++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Hi+there+👋 🤖,+I'm+Daniel+Sidauruk++++++++++)](https://git.io/typing-svg)
 <p><a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=danielsidauruk??style=for-the-badge&logo=appveyor"></a></p>
 <h4>📮 Contact me ...</h4>
 <p>
