@@ -4,8 +4,8 @@
 
 <h4>Curently learning ...</h4>
 <p>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <!--   <img src="https://img.shields.io/badge/Flutter-027DFD?style=for-the-badge&logo=flutter&logoColor=white"/> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,11 +30,16 @@
  -->
 <h4>Contact me ...</h4>
 <p>
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="35" height="35"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="35" height="35"/>
+<a href="https://www.linkedin.com/in/danielsidauruk/">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="45" height="45"/> 
+</a>  &nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href=mailto:danielsidauruk11@gmail.com>
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="45" height="45"/>
+</a>  &nbsp;&nbsp;&nbsp;&nbsp;
   
 <!--   <a href="https://www.linkedin.com/in/danielsidauruk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
-<!--   <a href="mailto:danielsidauruk11@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
+<!--   <a href="mailto:danielsidauruk11@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
 </p>
 
 
