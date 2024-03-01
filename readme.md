@@ -7,4 +7,4 @@
 
 
 <h2>Tools Stack</h2>
-<img src="assets/go-icon.svg" alt="go" height="35"/> &nbsp; &nbsp; <img src="assets/python-icon.svg" alt="python" width="35"/> &nbsp; &nbsp; <img src="assets/kubernetes-icon.svg" alt="kubernetes" height="35"/> &nbsp; &nbsp; <img src="assets/helm-icon.svg" alt="helm" height="35"/> &nbsp; &nbsp; <img src="assets/terraform-icon.svg" alt="terraform" width="35"/>
+<p> <img src="assets/go-icon.svg" alt="go" height="35"/> &nbsp; &nbsp; <img src="assets/python-icon.svg" alt="python" width="35"/> &nbsp; &nbsp <img src="assets/kubernetes-icon.svg" alt="kubernetes" height="35"/> &nbsp; &nbsp; <img src="assets/helm-icon.svg" alt="helm" height="35"/> &nbsp; &nbsp; <img src="assets/terraform-icon.svg" alt="terraform" width="35"/> </p>
