@@ -9,7 +9,7 @@
 <!-- <p> [Professional Cloud Database Engineer](https://google.accredible.com/0e90b4c6-4806-49a4-9b20-9b0a24eb0288) </p> <p> [Professional Data Engineer](https://google.accredible.com/0e90b4c6-4806-49a4-9b20-9b0a24eb0288) </p> | -->
 
 <h2>Tools Stack</h2>
-<p> <img src="assets/go-icon.svg" alt="go" height="30"/> &nbsp; <img src="assets/python-icon.svg" alt="python" height="30"/> &nbsp; <img src="assets/kubernetes-icon.svg" alt="kubernetes" height="30"/> &nbsp; <img src="assets/terraform-icon.svg" alt="terraform" height="30"/> &nbsp; <img src="assets/redhat-icon.svg" alt="redhat" height="30"/> &nbsp; <img src="assets/helm-icon.svg" alt="helm" height="30"/> &nbsp; </p>
+<p> <img src="assets/go-icon.svg" alt="go" height="30"/> &nbsp;  <img src="assets/python-icon.svg" alt="python" height="30"/> &nbsp; <img src="assets/kubernetes-icon.svg" alt="kubernetes" height="30"/> &nbsp; <img src="assets/terraform-icon.svg" alt="terraform" height="30"/> &nbsp; <img src="assets/redhat-icon.svg" alt="redhat" height="30"/> &nbsp; <img src="assets/helm-icon.svg" alt="helm" height="30"/> &nbsp; </p>
 
 
 <!--  -->
