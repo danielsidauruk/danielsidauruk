@@ -1,24 +1,16 @@
 ## 👨‍💻 About Me
 
-I am a **Cloud and DevOps Engineer**, building and managing scalable infrastructure. Currently based in **Indonesia**, I specialize in designing high-availability systems on **AWS** and **GCP**, with a strong focus on Infrastructure as Code (IaC) and automated CI/CD pipelines.
+Cloud Engineer based in Jakarta, Indonesia, with expertise in designing, automating, and maintaining cloud infrastructure using Infrastructure as Code (IaC) and CI/CD pipelines.
 
----
 ## 🛠️ Tech Stack
-
-### ☁️ Cloud Platforms
 <img src="assets/aws-icon.svg" alt="AWS" width="40" height="40"/> &nbsp;
 <img src="assets/gcp-icon.svg" alt="GCP" width="40" height="40"/> &nbsp;
-<img src="assets/azure-icon.svg" alt="Azure" width="40" height="40"/>
-
-### 🚀 DevOps & Infrastructure
-<img src="assets/linux-icon.svg" alt="WSL/Linux" width="40" height="40"/> &nbsp;
 <img src="assets/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/> &nbsp;
-<img src="assets/docker-icon.svg" alt="Docker" width="40" height="40"/> &nbsp;
-<img src="assets/helm-icon.svg" alt="Helm" height="40"/> &nbsp;
 <img src="assets/terraform-icon.svg" alt="Terraform" width="40" height="40"/> &nbsp;
-<img src="assets/github-actions-icon.svg" alt="GitHub Actions" width="40" height="40"/> &nbsp;
-
----
+<img src="assets/linux-icon.svg" alt="WSL/Linux" width="40" height="40"/> &nbsp;
+<img src="assets/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> &nbsp;
+<img src="assets/python-icon.svg" alt="python" width="40" height="40"/> &nbsp;
+<img src="assets/redis-icon.svg" alt="redis" width="40" height="40"/> &nbsp;
 
 ## 🏆 Certification
 
